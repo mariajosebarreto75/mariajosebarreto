@@ -12,7 +12,6 @@
 - 📊 Combino **analítica de datos** y **desarrollo**: no solo analizo la información, también construyo los sistemas que la capturan, la limpian y la convierten en indicadores.
 - 🔄 Transformo procesos que viven en Excel y correos en flujos automatizados con datos confiables, trazabilidad y dashboards para la toma de decisiones.
 - 📈 Experiencia con indicadores operativos: horas extras, cumplimiento de actividades, inspecciones de flota y alertas GPS.
-- 🌱 Actualmente aprendiendo: _ESCRIBE AQUÍ (ej. testing con pytest, React, GitHub Actions)_
 - 📍 Colombia
 ---
  
