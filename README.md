@@ -1,7 +1,6 @@
 # mariajosebarreto
-Agenda de compromisos creada para hesego ingeniería 
 <h1 align="center">¡Hola! Soy María José Barreto 👋</h1>
-<p align="center"><b>Desarrolladora Full Stack · Python / Flask · Automatización de procesos operativos</b></p>
+<p align="center"><b>Analista de Datos · Desarrolladora Python · Dashboards, automatización y apps de datos</b></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,13 +9,23 @@ Agenda de compromisos creada para hesego ingeniería
  
 ## 🙋‍♀️ Sobre mí
  
-- 💼 Desarrollo aplicaciones web internas que digitalizan la operación de campo: reportes, horas extras, flotas y GPS.
-- 🛠️ Me gusta convertir procesos que viven en Excel y correos en sistemas con roles, trazabilidad y dashboards.
+- 📊 Combino **analítica de datos** y **desarrollo**: no solo analizo la información, también construyo los sistemas que la capturan, la limpian y la convierten en indicadores.
+- 🔄 Transformo procesos que viven en Excel y correos en flujos automatizados con datos confiables, trazabilidad y dashboards para la toma de decisiones.
+- 📈 Experiencia con indicadores operativos: horas extras, cumplimiento de actividades, inspecciones de flota y alertas GPS.
 - 🌱 Actualmente aprendiendo: _ESCRIBE AQUÍ (ej. testing con pytest, React, GitHub Actions)_
 - 📍 Colombia
 ---
  
 ## 🧰 Tecnologías
+ 
+**Análisis y visualización de datos** <!-- Borra las que no uses y agrega las que falten -->
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
  
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,8 +58,18 @@ Plataforma web para la gestión de la operación de campo de una empresa de inge
 - **Módulos:** reportes operacionales con validación, horas extras con conciliación por contrato, compromisos de reunión, semáforo de actividades, inspecciones preoperacionales de vehículos y distribución de personal.
 - **Integraciones:** monitoreo de alertas de un sistema GPS externo, escalamiento de incidencias por **WhatsApp Cloud API**, notificaciones por correo y lectura de datos desde SharePoint.
 - **Tareas programadas** con APScheduler (sincronización GPS, escalamientos automáticos).
+- **Datos y BI:** dashboards de horas extras y preoperacionales para gerencia, indicadores de calificación por contrato e importación y exportación de Excel.
 - **Despliegue** con Docker Compose, Gunicorn y Nginx como reverse proxy.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `Docker` `Bootstrap` `Tabulator`
+ 
+### 📈 Proyectos de análisis de datos — _próximamente_
+<!-- Aquí van tus análisis. Para cada uno: pregunta de negocio → datos → hallazgos → recomendación.
+### 📊 [Nombre del análisis](URL-del-repo)
+**Pregunta:** ¿Qué factores explican X?
+**Datos:** fuente, tamaño, periodo.
+**Hallazgos clave:** 1–3 resultados con números.
+`Python` `Pandas` `Power BI`
+-->
  
 <!-- Copia este bloque para cada proyecto nuevo:
 ### 🔧 [Nombre del proyecto](URL-del-repo)
