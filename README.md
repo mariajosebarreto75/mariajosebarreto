@@ -31,6 +31,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
  
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,6 +61,15 @@ Plataforma web para la gestión de la operación de campo de una empresa de inge
 - **Datos y BI:** dashboards de horas extras y preoperacionales para gerencia, indicadores de calificación por contrato e importación y exportación de Excel.
 - **Despliegue** con Docker Compose, Gunicorn y Nginx como reverse proxy.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `Docker` `Bootstrap` `Tabulator`
+ 
+### 📅 [Agenda de Compromisos](https://github.com/mariajosebarreto75/Agenda-Compromisos-) — [demo en vivo](https://agendacompromisos.pages.dev)
+App web para el seguimiento de compromisos de reuniones por contrato y responsable.
+ 
+- **Estados e indicadores:** pendiente, reprogramado, cerrado y **atrasado**, calculados en SQL según los filtros activos.
+- Reprogramación con **historial**, cierre con **evidencia fotográfica** (Cloudinary) y checklist de reunión.
+- **Importación y exportación a Excel** con filtros combinables.
+- Arquitectura separada: frontend en Cloudflare Pages y API REST en Render.
+`Node.js` `Express` `MySQL` `JavaScript` `ExcelJS` `Cloudinary`
  
 ### 📈 Proyectos de análisis de datos — _próximamente_
 <!-- Aquí van tus análisis. Para cada uno: pregunta de negocio → datos → hallazgos → recomendación.
